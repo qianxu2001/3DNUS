@@ -50,7 +50,7 @@ namespace _3DNUS.Core
 
         public static readonly String[] sysarr = new String[]
         {
-            "ctr",  "ktr"
+            "ktr",  "ktr"
         };
 
         public static int selsys = 0;
